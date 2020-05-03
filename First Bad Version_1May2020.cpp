@@ -1,6 +1,6 @@
 // The API isBadVersion is defined for you.
 // bool isBadVersion(int version);
-
+/****SOLVED BY ARJUN DUBEY****/
 class Solution {
 public:
     int firstBadVersion(int n) {
